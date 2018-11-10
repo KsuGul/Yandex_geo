@@ -6,13 +6,13 @@ Created on Sat Nov 10 10:26:37 2018
 @author: ksu
 """
 
-# 679559126:AAF8MMGeaZatyGC41ndV-dEMM7A-8A8bweA
+#
 # 216043223
 
 import requests  
 import datetime
 
-token = "679559126:AAF8MMGeaZatyGC41ndV-dEMM7A-8A8bweA"
+token = ""
 
 class BotHandler:
 
