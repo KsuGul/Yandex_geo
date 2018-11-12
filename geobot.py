@@ -41,6 +41,3 @@ def geojson_processing(file):
         return "Ошибка: geojson файл некорректый"
           
 bot.polling(none_stop=True, interval=0) 
-
-
-
