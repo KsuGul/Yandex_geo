@@ -6,7 +6,6 @@ Created on Sat Nov 10 10:26:37 2018
 @author: ksu
 """
 
-#
 # 216043223
 
 import requests  
