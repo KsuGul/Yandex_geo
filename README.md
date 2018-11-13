@@ -126,6 +126,9 @@
 
     bot.polling(none_stop=True, interval=0) 
 
+#### Бот находится в geobot.py
+#### Тесты tests.py
+
 ### GitHub/Heroku
 
 
